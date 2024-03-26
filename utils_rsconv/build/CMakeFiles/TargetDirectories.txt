@@ -1,0 +1,3 @@
+/home/cvig_5/scripts_pr2/norm_point_conv/utils_rsconv/build/CMakeFiles/rebuild_cache.dir
+/home/cvig_5/scripts_pr2/norm_point_conv/utils_rsconv/build/CMakeFiles/edit_cache.dir
+/home/cvig_5/scripts_pr2/norm_point_conv/utils_rsconv/build/CMakeFiles/pointnet2_ext.dir

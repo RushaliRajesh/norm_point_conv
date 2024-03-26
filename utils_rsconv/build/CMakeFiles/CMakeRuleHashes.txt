@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+518125879f95963b7c3a20418263f643 ../utils/_ext/pointnet2/_pointnet2.so
+1ad49c1523687923b8f928b796956a2a CMakeFiles/pointnet2_ext
